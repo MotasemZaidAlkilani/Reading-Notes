@@ -1,5 +1,5 @@
 # Reading-Notes
-*this site have **question and obseravtion** for reading assignments throughout the course.*
+*this site have **question and obseravtion** for reading assignments throughout the course.* :speech_balloon:	
 
 <!-- hidden comment -->
 ## 1. Code 102 - Intro to Software Development
