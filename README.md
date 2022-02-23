@@ -12,7 +12,7 @@
 
 |The code | The title | The Link |
 |---------|-----------|----------|
-|Read01|Java Basics|[link]|
+|Read01|Java Basics|[link]()|
 |Read02|Arrays,Loops,Imports|[link](https://github.com/user/repo/blob/branch/other_file.md)|
 |Read03|Maps,primitive,File I\O|[link](https://github.com/user/repo/blob/branch/other_file.md)|
 |Read04|OOP|[link](https://github.com/user/repo/blob/branch/other_file.md)|
