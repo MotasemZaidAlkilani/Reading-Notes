@@ -24,5 +24,6 @@
 |Read010|Stacks and Queues|[link]()|
 |Read011|Spring|[link]()|
 
+ Growth Mindset [link](growthMindset.md)
 
 
