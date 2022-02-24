@@ -8,7 +8,7 @@ finally the drop and alter, drop for delete the whole table, and alter to delete
 # Exercises
 1. SELECT
 
-<img src="https://user-images.githubusercontent.com/72309669/155521772-5104042f-0b04-4908-bbf3-cbac80413db9.jpg " width="200" height="200">
+<img src="https://user-images.githubusercontent.com/72309669/155521772-5104042f-0b04-4908-bbf3-cbac80413db9.jpg " width="300" height="300">
 
 2. Queries with Constraints p1
 
