@@ -12,7 +12,7 @@
 
 |The code | The title | The Link |
 |---------|-----------|----------|
-|Read01|Java Basics|[link]()|
+|Read01|Java Basics|[link](sql.md)|
 |Read02|Arrays,Loops,Imports|[link]()|
 |Read03|Maps,primitive,File I\O|[link]()|
 |Read04|OOP|[link]()|
