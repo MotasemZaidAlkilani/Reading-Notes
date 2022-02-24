@@ -53,4 +53,5 @@ finally the drop and alter, drop for delete the whole table, and alter to delete
 12. Dropping Table
 
 <img src=https://user-images.githubusercontent.com/72309669/155522093-6f9fbf53-c477-43bf-bf42-a35ed927a1b6.jpg" width="300" height="300">
-
+f                                                                                                                                        
+                                                                                                                                       
