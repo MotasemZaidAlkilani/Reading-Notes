@@ -13,7 +13,7 @@
 |The code | The title | The Link |
 |---------|-----------|----------|
 |Read01|Java Basics|[link](javaBasic.md)|
-|Read02|Arrays,Loops,Imports|[link]()|
+|Read02|Arrays,Loops,Imports|[link](ArrayLoopsImport.md)|
 |Read03|Maps,primitive,File I\O|[link]()|
 |Read04|OOP|[link]()|
 |Read05|Implementation :Linked Lists|[link]()|
