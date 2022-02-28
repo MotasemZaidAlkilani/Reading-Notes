@@ -14,7 +14,7 @@
 |---------|-----------|----------|
 |Read01|Java Basics|[link](javaBasic.md)|
 |Read02|Arrays,Loops,Imports|[link](ArrayLoopsImport.md)|
-|Read03|Maps,primitive,File I\O|[link](map-primitive-file.md)|
+|Read03|Maps,primitive,File I\O|[link](Map-Primitive-File.md)|
 |Read04|OOP|[link]()|
 |Read05|Implementation :Linked Lists|[link]()|
 |Read06|Inheritance and interfaces|[link]()|
