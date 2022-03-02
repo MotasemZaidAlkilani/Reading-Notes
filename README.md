@@ -17,7 +17,7 @@
 |Read03|Maps,primitive,File I\O|[link](Map-Primitive-File.md)|
 |Read04|OOP|[link](OOP.md)|
 |Read05|Implementation :Linked Lists|[link]()|
-|Read06|Inheritance and interfaces|[link]()|
+|Read06|Inheritance and interfaces|[link](Inheritance and Interfaces.md)|
 |Read07|Questions|[link]()|
 |Read08|OO Design|[link]()|
 |Read09|WRRC and Java|[link]()|
