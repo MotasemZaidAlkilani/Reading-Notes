@@ -19,7 +19,7 @@
 |Read05|Implementation :Linked Lists|[link]()|
 |Read06|Inheritance and interfaces|[link](InheritanceandInterfaces.md)|
 |Read07|Questions|[link]()|
-|Read08|OO Design|[link]()|
+|Read08|OO Design|[link](OODesign.md)|
 |Read09|WRRC and Java|[link]()|
 |Read010|Stacks and Queues|[link]()|
 |Read011|Spring|[link]()|
