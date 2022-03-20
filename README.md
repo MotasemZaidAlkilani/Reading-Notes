@@ -23,7 +23,7 @@
 |Read09|WRRC and Java|[link](WRRCAndJava.md)|
 |Read010|Stacks and Queues|[link](stacksAndQueues.md)|
 |Read011|Spring|[link](spring.md)|
-|Read012|Spring RESTFUL|[link](SpringRestful.md)|
+|Read012|Spring RESTFUL|[link](SpringRESTful.md)|
 
  Growth Mindset  [link](growthMindset.md)
 
