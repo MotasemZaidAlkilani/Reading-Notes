@@ -24,6 +24,8 @@
 |Read010|Stacks and Queues|[link](stacksAndQueues.md)|
 |Read011|Spring|[link](spring.md)|
 |Read012|Spring RESTFUL|[link](SpringRESTful.md)|
+|Read013|SpringRelationships|[link](SpringRelationships.md)|
+
 
  Growth Mindset  [link](growthMindset.md)
 
