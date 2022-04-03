@@ -27,6 +27,7 @@
 |Read013|SpringRelationships|[link](SpringRelationships.md)|
 |Read|trees|[link](trees.md)|
 |Read16|Spring Authentication|[link](SpringAuthentication.md)|
+|Read17|SpringAuthorization|[link](SpringAuthorization.md)|
 
  Growth Mindset  [link](growthMindset.md)
 
