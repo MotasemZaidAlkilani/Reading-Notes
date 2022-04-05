@@ -30,7 +30,7 @@
 |Read17|SpringAuthorization|[link](SpringAuthorization.md)|
 |Read18|WebAppSecurity|[link](WebAppSecurity.md)|
 
-WebAppSecurity.md
+
  Growth Mindset  [link](growthMindset.md)
 
 
