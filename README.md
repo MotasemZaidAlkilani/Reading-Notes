@@ -29,6 +29,7 @@
 |Read16|Spring Authentication|[link](SpringAuthentication.md)|
 |Read17|SpringAuthorization|[link](SpringAuthorization.md)|
 |Read18|WebAppSecurity|[link](WebAppSecurity.md)|
+|Read19|SpringAndSockets|[link](SpringAndSockets.md)|
 
 
  Growth Mindset  [link](growthMindset.md)
