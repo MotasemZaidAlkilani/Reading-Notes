@@ -36,6 +36,7 @@
 |The code|  The title|  The Link |
 |---------|-----------|----------|
 |Read26|Android Fundamentals |[link](Android.md)|
+|Read27|Intents, Activities ,shared Preferences |[IntentsActivities.md)|
 
  Growth Mindset  [link](growthMindset.md)
 
