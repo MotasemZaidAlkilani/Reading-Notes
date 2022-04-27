@@ -37,6 +37,9 @@
 |---------|-----------|----------|
 |Read26|Android Fundamentals |[link](Android.md)|
 |Read27|Intents, Activities ,shared Preferences |[link](IntentsActivities.md)|
+|Read28|RecyclerView  |[link](RecyclerView.md)|
+
+
 
  Growth Mindset  [link](growthMindset.md)
 
