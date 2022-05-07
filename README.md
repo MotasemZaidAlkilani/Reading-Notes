@@ -10,7 +10,6 @@
 
 ## 4. Code 401 - Advanced Software Development
 
-## web 
 |The code | The title | The Link |
 |---------|-----------|----------|
 |Read01|Java Basics|[link](javaBasic.md)|
