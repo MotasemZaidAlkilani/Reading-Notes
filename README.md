@@ -34,7 +34,7 @@
 |Read27|Intents, Activities ,shared Preferences |[link](IntentsActivities.md)|
 |Read28|RecyclerView  |[link](RecyclerView.md)|
 |Read29|Room  |[link](room.md)|
-
+|Read30|HASH  |[link](hash.md)|
 
  Growth Mindset  [link](growthMindset.md)
 
