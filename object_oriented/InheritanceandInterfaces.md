@@ -5,7 +5,7 @@ so inheritance are the relation between superclass and subclass , that the prope
 as u can see  in below picture ,superclass are the bicycle and subclasses are the different types of bicycles ,so each bicycle has 
 the common thing that it take it from superclass.
 
-<img src="images/inheritance.gif" width=200 height=200>
+<img src="../images/inheritance.gif" width=200 height=200>
 
 he syntax for creating a subclass is simple. At the beginning of your class declaration, use the extends keyword, followed by the name of the class to inherit from:
 
