@@ -15,11 +15,11 @@
 |Read01|Java Basics|[link](javaBasic.md)|
 |Read02|Arrays,Loops,Imports|[link](dataStructure/ArrayLoopsImport.md)|
 |Read03|Maps,primitive,File I\O|[link](dataStructure/Map-Primitive-File.md)|
-|Read04|OOP|[link](object oriented/OOP.md)|
+|Read04|OOP|[link](object_oriented/OOP.md)|
 |Read05|Implementation :Linked Lists|[link]()|
-|Read06|Inheritance and interfaces|[link](object oriented/InheritanceandInterfaces.md)|
+|Read06|Inheritance and interfaces|[link](object_oriented/InheritanceandInterfaces.md)|
 |Read07|Questions|[link]()|
-|Read08|OO Design|[link](object oriented/OODesign.md)|
+|Read08|OO Design|[link](object_oriented/OODesign.md)|
 |Read09|WRRC and Java|[link](webBackend/WRRCAndJava.md)|
 |Read010|Stacks and Queues|[link](dataStructure/stacksAndQueues.md)|
 |Read011|Spring|[link](webSpring/spring.md)|
