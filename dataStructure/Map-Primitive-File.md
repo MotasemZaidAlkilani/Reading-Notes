@@ -6,7 +6,7 @@ Java has a two-fold type system consisting of primitives such as int, boolean an
 Every primitive type corresponds to a reference type.Every object(reference type) contains a single value of the corresponding primitive type.
 as u can see in the below picture :
 
-<img src="./images/PrimitiveVsReferenceTypeJava.png" width=800 height=300>
+<img src="../images/PrimitiveVsReferenceTypeJava.png" width=800 height=300>
 
 -A primitive is not composed of other data types. Where as an object can be and generally is.
 -Primitives are passed by value, i.e. a copy of the primitive itself is passed. Whereas for objects,
@@ -35,7 +35,7 @@ Exception is stand for the phrase "exceptional event."
 The exception happen when the program run of the context , so like when that occur in method ,the method creates an object and hands it off to the runtime system
  as in the picture below .After a method throws an exception, the runtime system attempts to find something to handle it. The set of possible "somethings" to handle the exception is the ordered list of methods that had been called to get to the method where the error occurred. The list of methods is known as the call stack. 
 
-<img src="./images/Exception-Hierarchy.png" width=500 height=400>
+<img src="../images/Exception-Hierarchy.png" width=500 height=400>
 
 to know how to catch and handle exceptions , u can use try and catch ,which try catches the error in the code ,and then catch appear what type of error 
 u have .the context of try and catch is as follow :
