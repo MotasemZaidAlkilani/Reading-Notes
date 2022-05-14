@@ -13,29 +13,29 @@
 |The code | The title | The Link |
 |---------|-----------|----------|
 |Read01|Java Basics|[link](javaBasic.md)|
-|Read02|Arrays,Loops,Imports|[link](ArrayLoopsImport.md)|
-|Read03|Maps,primitive,File I\O|[link](Map-Primitive-File.md)|
-|Read04|OOP|[link](OOP.md)|
+|Read02|Arrays,Loops,Imports|[link](dataStructure/ArrayLoopsImport.md)|
+|Read03|Maps,primitive,File I\O|[link](dataStructure/Map-Primitive-File.md)|
+|Read04|OOP|[link](object oriented/OOP.md)|
 |Read05|Implementation :Linked Lists|[link]()|
-|Read06|Inheritance and interfaces|[link](InheritanceandInterfaces.md)|
+|Read06|Inheritance and interfaces|[link](object oriented/InheritanceandInterfaces.md)|
 |Read07|Questions|[link]()|
-|Read08|OO Design|[link](OODesign.md)|
-|Read09|WRRC and Java|[link](WRRCAndJava.md)|
-|Read010|Stacks and Queues|[link](stacksAndQueues.md)|
-|Read011|Spring|[link](spring.md)|
-|Read012|Spring RESTFUL|[link](SpringRESTful.md)|
-|Read013|SpringRelationships|[link](SpringRelationships.md)|
-|Read|trees|[link](trees.md)|
-|Read16|Spring Authentication|[link](SpringAuthentication.md)|
-|Read17|SpringAuthorization|[link](SpringAuthorization.md)|
-|Read18|WebAppSecurity|[link](WebAppSecurity.md)|
-|Read19|SpringAndSockets|[link](SpringAndSockets.md)|
-|Read26|Android Fundamentals |[link](Android.md)|
-|Read27|Intents, Activities ,shared Preferences |[link](IntentsActivities.md)|
-|Read28|RecyclerView  |[link](RecyclerView.md)|
-|Read29|Room  |[link](room.md)|
-|Read30|HASH  |[link](hash.md)|
-|Read31|espresso  |[link](espresso.md)|
+|Read08|OO Design|[link](object oriented/OODesign.md)|
+|Read09|WRRC and Java|[link](webBackend/WRRCAndJava.md)|
+|Read010|Stacks and Queues|[link](dataStructure/stacksAndQueues.md)|
+|Read011|Spring|[link](webSpring/spring.md)|
+|Read012|Spring RESTFUL|[link](webSpring/SpringRESTful.md)|
+|Read013|SpringRelationships|[link](webSpring/SpringRelationships.md)|
+|Read|trees|[link](dataStructure/trees.md)|
+|Read16|Spring Authentication|[link](webSpring/SpringAuthentication.md)|
+|Read17|SpringAuthorization|[link](webSpring/SpringAuthorization.md)|
+|Read18|WebAppSecurity|[link](webBackend/WebAppSecurity.md)|
+|Read19|SpringAndSockets|[link](webSpring/SpringAndSockets.md)|
+|Read26|Android Fundamentals |[link](android/Android.md)|
+|Read27|Intents, Activities ,shared Preferences |[link](android/IntentsActivities.md)|
+|Read28|RecyclerView  |[link](android/RecyclerView.md)|
+|Read29|Room  |[link](android/room.md)|
+|Read30|HASH  |[link](dataStructure/hash.md)|
+|Read31|espresso  |[link](android/espresso.md)|
  Growth Mindset  [link](growthMindset.md)
 
 
