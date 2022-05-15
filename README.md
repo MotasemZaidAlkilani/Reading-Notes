@@ -36,7 +36,7 @@
 |Read29|Room  |[link](android/room.md)|
 |Read30|HASH  |[link](dataStructure/hash.md)|
 |Read31|espresso  |[link](android/espresso.md)|
-|Read32|serverLess  |[link](android/serverLess.md)|
+|Read32|serverLess  |[link](./Serverless.md)|
  Growth Mindset  [link](growthMindset.md)
 
 
