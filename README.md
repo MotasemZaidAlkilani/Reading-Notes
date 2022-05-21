@@ -37,6 +37,8 @@
 |Read30|HASH  |[link](dataStructure/hash.md)|
 |Read31|espresso  |[link](android/espresso.md)|
 |Read32|serverLess  |[link](./Serverless.md)|
+|Read33|GraphSql Connection  |[link](./GraphSqlConnection.md)|
+
  Growth Mindset  [link](growthMindset.md)
 
 
