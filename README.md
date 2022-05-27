@@ -39,6 +39,7 @@
 |Read32|serverLess  |[link](./Serverless.md)|
 |Read33|GraphSql Connection  |[link](./GraphSqlConnection.md)|
 |Read34|publish application |[link](./publishApplication.md)|
+|Read35|Graphs |[link](./graphs.md)|
  Growth Mindset  [link](growthMindset.md)
 
 
