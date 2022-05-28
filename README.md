@@ -40,6 +40,8 @@
 |Read33|GraphSql Connection  |[link](./GraphSqlConnection.md)|
 |Read34|publish application |[link](./publishApplication.md)|
 |Read35|Graphs |[link](./graphs.md)|
+|Read36|Authentication |[link](./Authentication.md)|
  Growth Mindset  [link](growthMindset.md)
 
 
+Authentication.md
