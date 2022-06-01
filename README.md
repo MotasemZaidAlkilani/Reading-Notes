@@ -42,6 +42,7 @@
 |Read35|Graphs |[link](./graphs.md)|
 |Read36|Authentication |[link](./Authentication.md)|
 |Read37|S3 Amplify |[link](./S3Amplify.md)|
+|Read39|location |[link](./location.md)|
  Growth Mindset  [link](growthMindset.md)
 
 S3Amplify.md
