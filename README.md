@@ -43,7 +43,8 @@
 |Read36|Authentication |[link](./Authentication.md)|
 |Read37|S3 Amplify |[link](./S3Amplify.md)|
 |Read39|location |[link](./location.md)|
+|Read41|amazonPinpointAndPolly |[link](./amazonPinpointAndPolly.md)|
+
  Growth Mindset  [link](growthMindset.md)
 
-S3Amplify.md
-Authentication.md
+
