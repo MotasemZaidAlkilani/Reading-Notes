@@ -45,6 +45,7 @@
 |Read38|Intents Filters  |[link](./IntentsFilters.md)|
 |Read39|location |[link](./location.md)|
 |Read41|amazonPinpointAndPolly |[link](./amazonPinpointAndPolly.md)|
+|Read42|google Ad |[link](./googleAd.md)|
 
  Growth Mindset  [link](growthMindset.md)
 
