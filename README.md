@@ -46,7 +46,7 @@
 |Read39|location |[link](./location.md)|
 |Read41|amazonPinpointAndPolly |[link](./amazonPinpointAndPolly.md)|
 |Read42|google Ad |[link](./googleAd.md)|
+|Read42|ethics |[link](./Ethics.md)|
 
  Growth Mindset  [link](growthMindset.md)
-
 
